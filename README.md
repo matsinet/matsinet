@@ -20,9 +20,9 @@ I have 20 years experience developing, deploying and managing web applications u
 
 ### Tools
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
+![](http://img.shields.io/badge/-PHPStorm-0078D4?style=for-the-badge&logo=phpstorm&logoColor=white)
 ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-![](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)
+![](https://img.shields.io/badge/Hyper-0078D4?style=for-the-badge&logo=hyper&logoColor=white)
 
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
