@@ -1,3 +1,9 @@
+<style>
+img[src*="camo.githubusercontent.com"] {
+    border-radius: 10px;
+}
+</style>
+
 # Matt Thomas (matsinet)
 
 ### I am a Software Engineer specializing in web development as well as a Full Stack Web Development & ICAgile Certified Instructor with [Savvy Coders](https://www.savvycoders.com).
